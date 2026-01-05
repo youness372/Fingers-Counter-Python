@@ -1,5 +1,13 @@
 ## $${\color{blue}Fingers \space Counter} $$
+
 A real-time finger counting application using Python, OpenCV, and MediaPipe that detects and counts fingers from both hands simultaneously through your webcam.
+
+<p align="center">
+  <img width="400" height="300" alt="hand-gesture-recognition-opencv-python" src="https://github.com/user-attachments/assets/5fc8fa6b-ae42-42cf-b888-e2871436cd76" />
+</p>
+
+
+
 ### *Features*    
 * $${\color{lightgreen}Dual \space Hand \space Detection \space :} $$  Counts fingers on both hands at the same time
 * $${\color{lightgreen}Real-time  \space Processing \space :} $$  Instant finger counting with live video feed
